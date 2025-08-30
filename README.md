@@ -1,4 +1,6 @@
-<h2 align="center" style="color: #FF6347; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); animation: glow 2s infinite alternate;">🔰WELCOME TO DML-MD🔰</h2>
+<h2 align="center" style="color: #FF6347; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); animation: glow 2s infinite alternate;">WELCOME TO DML-MD
+
+</h2>
 <h3 align="center" style="color: #1BAFBA; font-weight: bold;">Powerful WhatsApp Bot for Tanzania</h3>
 
 <p align="center">
@@ -57,7 +59,7 @@ You need a session to connect your bot. Choose your preferred method , I recomme
 ### 🔹 Step 3: Deploy with One Click
 Easily deploy to Heroku with the button below:
 
-[![Deploy](https://img.shields.io/badge/DEPLOY_TO_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dmlv1.vercel.app/)
+[![Deploy](https://img.shields.io/badge/DEPLOY_TO_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://verify-dmlbot.vercel.app)
 
 
 [![Deploy](https://img.shields.io/badge/DEPLOY_TO_RAILWAY-430098?style=for-the-badge&logo=railway&logoColor=white)](https://railway.com/new)
@@ -82,12 +84,3 @@ Easily deploy to Heroku with the button below:
   </a>
 </p>
 
----
-
-<h3 align="center" style="color: #FF6347; animation: pulse 1.5s infinite;">⚡ OFFICIAL RELEASE v3.0 ⚡</h3>
-
-## ⚠️ Important Notice
-```diff
-- REDISTRIBUTION STRICTLY PROHIBITED
-+ OFFICIAL SUPPORT ONLY FOR ORIGINAL VERSION
-! VIOLATORS WILL BE BLACKLISTED
